@@ -289,8 +289,7 @@ This project is created for educational purposes as part of Cloud DevOps trainin
 
 ## 👤 Author
 
-**Your Name**
-- Course: Cloud DevOps Training
+**Syed Ahmed Ali**
 - Project: Ghost Protocol - Automated S3 Security Auditor
 - Date: February 2026
 
@@ -298,7 +297,7 @@ This project is created for educational purposes as part of Cloud DevOps trainin
 
 ## 📧 Contact
 
-For questions or feedback about this project, please reach out through the course platform.
+For questions or feedback about this project, please reach out through LinkedIn : www.linkedin.com/in/syed-ahmed-ali-446101386
 
 ---
 
